@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../multiplayer-stage-4-final-main/assets"
+		},
+		{
+			"path": "../../multiplayer-stage-4-final-main/js"
+		},
+		{
+			"path": "../../multiplayer-stage-4-final-main/lib"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets"
+	}
+}
